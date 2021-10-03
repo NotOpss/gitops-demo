@@ -13,5 +13,5 @@ spec:
       $setElementOrder/containers:
       - name: helloworld
       containers:
-      - image: particule/helloworld:1.1
+      - image: nginx
         name: helloworld
